@@ -1,7 +1,7 @@
 # CS-255-System-Analysis-And-Design
 
 
-    **Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?**
+    Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 DriverPass is a company that is trying to provide a better way for student drivers to study for their driving exams as well as a way to schedule appointments for a practical driving test. What we were contracted to do is to make a website that will allow their customers to create an account, purchase a package for their study, take practice tests online, and also schedule appointments with one of the instructors to practice driving. 
     
     What did you do particularly well?
