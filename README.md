@@ -58,19 +58,23 @@ DriverPass is designed to address a gap in the driver training market by providi
 ### 1. Use Case Diagram
 
 Visualizes user interactions with the system, such as booking appointments, resetting passwords, and tracking availability.
+![Use Case Diagram](Images/UseCaseDiagram.png)
 
 ### 2. Activity Diagram
 
 Details workflows, including scheduling appointments and validating payments.
+![User Login Diagram](Images/UserLogin.png)
+![UAppointment Scheduling Diagram](Images/SchedulingAppointments.png)
 
 ### 3. Sequence Diagram
 
 Outlines the sequence of operations between system components during tasks like payment processing and appointment confirmation.
+![UML Sequence Diagram](Images/AppointmentScheduling.png)
 
 ### 4. Class Diagram
 
 Defines relationships and attributes for classes such as **User**, **Instructor**, **Appointment**, and **Customer**.
-
+![UML Class Diagram](Images/UMLClassDiagram.png)
 ---
 
 ## Process Flow
