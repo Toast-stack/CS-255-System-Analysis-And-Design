@@ -107,6 +107,7 @@ Defines relationships and attributes for classes such as **User**, **Instructor*
 ## Gantt Chart
 
 - Includes a project timeline for development milestones created with Lucidchart.
+  ![UML Sequence Diagram](Images/GanttChart.png)
 
 ---
 
