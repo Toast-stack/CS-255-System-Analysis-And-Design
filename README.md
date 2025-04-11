@@ -146,3 +146,6 @@ I approached the design by focusing on the users’ technical requirements. I cr
 ## Future Design Approach
 
 When designing software, I believe defining functional and non-functional requirements is essential. In future projects, I plan to use diagrams to illustrate system workflows and communicate designs effectively, whether in an agile environment with a scrum leader or directly with the client.
+
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software.
